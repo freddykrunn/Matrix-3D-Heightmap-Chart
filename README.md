@@ -45,13 +45,13 @@ instance.setData([
 ]);
 ```
 
-4. When main container changes dimensions call:
+4. When container element changes its dimensions, you need to call:
 
 ```javascript
 instance.resize();
 ```
 
-5. To reset the view, call:
+5. To reset the view:
 
 ```javascript
 instance.resetView();
