@@ -1,8 +1,8 @@
-## 3D Matrix Height Map
+## Matrix 3D Heightmap Chart
 
-Helper to display a 3D interactive height map of a Matrix
+Helper that displays a 3D interactive/editable heightmap chart of a 2D Matrix and allows the manual edition of single points
 
-image
+![alt text](https://github.com/freddykrunn/Matrix-3D-Heightmap-Chart/blob/main/assets/matrix-helper-preview.png?raw=true)
 
 ## Usage
 
